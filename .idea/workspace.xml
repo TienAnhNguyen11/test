@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5dd3caa-4d12-4f36-a6d4-c5bd5d4aa70b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài5.py" beforeDir="false" afterPath="$PROJECT_DIR$/bài5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +34,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.inheritance">
-    <configuration name="Lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.iterator">
+    <configuration name="bài 17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="start" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,7 +47,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lambda.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bài 17.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bài 21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="bài5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="start" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,28 +89,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bài 21.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="bài 22" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="start" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bài 22.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bài5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,22 +161,43 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="iterator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="start" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iterator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.bài 2" />
       <item itemvalue="Python.first" />
-      <item itemvalue="Python.bài 21" />
-      <item itemvalue="Python.bài 22" />
-      <item itemvalue="Python.Lambda" />
       <item itemvalue="Python.class" />
       <item itemvalue="Python.inheritance" />
+      <item itemvalue="Python.bài 17" />
+      <item itemvalue="Python.bài5" />
+      <item itemvalue="Python.iterator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.iterator" />
+        <item itemvalue="Python.bài5" />
+        <item itemvalue="Python.bài 17" />
         <item itemvalue="Python.inheritance" />
         <item itemvalue="Python.class" />
-        <item itemvalue="Python.Lambda" />
-        <item itemvalue="Python.bài 22" />
-        <item itemvalue="Python.bài 21" />
       </list>
     </recent_temporary>
   </component>
@@ -220,45 +219,45 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584979133853" />
-    <state width="1515" height="164" key="GridCell.Tab.0.bottom" timestamp="1586428431189">
+    <state width="1515" height="164" key="GridCell.Tab.0.bottom" timestamp="1586575273551">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="164" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586428431189" />
+    <state width="1515" height="164" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586575273551" />
     <state width="1515" height="164" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586157176130" />
-    <state width="1515" height="164" key="GridCell.Tab.0.center" timestamp="1586428431189">
+    <state width="1515" height="164" key="GridCell.Tab.0.center" timestamp="1586575273551">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="164" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586428431189" />
+    <state width="1515" height="164" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586575273551" />
     <state width="1515" height="164" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586157176130" />
-    <state width="1515" height="164" key="GridCell.Tab.0.left" timestamp="1586428431188">
+    <state width="1515" height="164" key="GridCell.Tab.0.left" timestamp="1586575273550">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="164" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586428431188" />
+    <state width="1515" height="164" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586575273550" />
     <state width="1515" height="164" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586157176130" />
-    <state width="1515" height="164" key="GridCell.Tab.0.right" timestamp="1586428431189">
+    <state width="1515" height="164" key="GridCell.Tab.0.right" timestamp="1586575273551">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="164" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586428431189" />
+    <state width="1515" height="164" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586575273551" />
     <state width="1515" height="164" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586157176130" />
-    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1586351826139">
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1586458428944">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586351826139" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586458428944" />
     <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586157174353" />
-    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1586351826138">
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1586458428944">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586351826138" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586458428944" />
     <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586157174353" />
-    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1586351826138">
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1586458428944">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586351826138" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586458428944" />
     <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586157174353" />
-    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1586351826139">
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1586458428944">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586351826139" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586458428944" />
     <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586157174353" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1584952141907">
       <screen x="0" y="0" width="1536" height="824" />

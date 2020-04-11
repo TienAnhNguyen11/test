@@ -26,7 +26,7 @@ class ptbh:
             else:
                 print("phương trình vô nghiệm")
 
-p1= ptbh(1,-5,4)
+p1= ptbh(1,-4,4)
 p1.myfunc()
 
 
